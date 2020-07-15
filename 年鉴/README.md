@@ -1,0 +1,3 @@
+- [数据竞赛年鉴（2019年度）](https://mp.weixin.qq.com/s/r9TEW0KRbWsl4LVqqozfPQ)
+- 天池历史比赛分享（TODO）
+- Kaggle历史比赛分享（TODO）
