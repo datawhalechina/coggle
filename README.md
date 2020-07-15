@@ -1,37 +1,25 @@
 ## Coggle数据科学
 
-You can use the [editor on GitHub](https://github.com/datawhalechina/coggle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Coggle数据科学创立于2019年下半年，致力于产出、整理和收集Kaggle竞赛的相关资讯和分享，我们致力于做国内最好的数据科学&Kaggle内容分享。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 竞赛分享：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 竞赛日历：https://coggle.club/
+- 竞赛开源：https://github.com/datawhalechina/competition-baseline
+- 竞赛年鉴：
+  - [数据竞赛年鉴（2019年度）](https://mp.weixin.qq.com/s/r9TEW0KRbWsl4LVqqozfPQ)
+- 竞赛设计：
+  - [零基础入门数据挖掘 - 二手车交易价格预测](https://tianchi.aliyun.com/competition/entrance/231784/)
+  - [零基础入门CV赛事- 街景字符编码识别](https://tianchi.aliyun.com/competition/entrance/531795/)
+  - [零基础入门NLP赛事- 新闻文本分类](https://tianchi.aliyun.com/competition/entrance/531810/)
+  
 
-```markdown
-Syntax highlighted code block
+### 关注我们
 
-# Header 1
-## Header 2
-### Header 3
+- 知乎专栏：https://zhuanlan.zhihu.com/DataAI
+- 公众号：Coggle数据科学
 
-- Bulleted
-- List
+![](https://coggle.club/assets/img/coggle_qrcode.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datawhalechina/coggle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
